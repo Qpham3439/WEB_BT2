@@ -1,0 +1,48 @@
+The 'Apache2.4' service is restarting.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::f10f:aa45:60c0:6214. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 26 09:47:00.845031 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00455: Apache/2.4.65 (Win64) configured -- resuming normal operations
+[Sun Oct 26 09:47:00.845031 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Oct 26 09:47:00.845031 2025] [core:notice] [pid 7808:tid 424] AH00094: Command line: 'E:\\Apache24\\bin\\httpd.exe -d E:/Apache24'
+[Sun Oct 26 09:47:00.853313 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00418: Parent: Created child process 5608
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::f10f:aa45:60c0:6214. Set the 'ServerName' directive globally to suppress this message
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::f10f:aa45:60c0:6214. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 26 09:47:02.786114 2025] [mpm_winnt:notice] [pid 5608:tid 452] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 7808:tid 424] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host2.example.com] does not exist
+[Sun Oct 26 09:48:14.271717 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00455: Apache/2.4.65 (Win64) configured -- resuming normal operations
+[Sun Oct 26 09:48:14.271717 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Oct 26 09:48:14.271717 2025] [core:notice] [pid 7808:tid 424] AH00094: Command line: 'E:\\Apache24\\bin\\httpd.exe -d E:/Apache24'
+[Sun Oct 26 09:48:14.271717 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00418: Parent: Created child process 6012
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [E:/Apache24/docs/dummy-host2.example.com] does not exist
+[Sun Oct 26 09:48:15.270980 2025] [mpm_winnt:notice] [pid 6012:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 26 09:48:16.288623 2025] [mpm_winnt:notice] [pid 5608:tid 452] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 7808:tid 424] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Oct 26 09:50:36.910747 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00455: Apache/2.4.65 (Win64) configured -- resuming normal operations
+[Sun Oct 26 09:50:36.910747 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Sun Oct 26 09:50:36.910747 2025] [core:notice] [pid 7808:tid 424] AH00094: Command line: 'E:\\Apache24\\bin\\httpd.exe -d E:/Apache24'
+[Sun Oct 26 09:50:36.926416 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00418: Parent: Created child process 6608
+[Sun Oct 26 09:50:37.927199 2025] [mpm_winnt:notice] [pid 6608:tid 468] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 26 09:50:38.927841 2025] [mpm_winnt:notice] [pid 6012:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Nov 04 18:53:52.132134 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 04 18:53:54.162547 2025] [mpm_winnt:notice] [pid 6608:tid 468] AH00364: Child: All worker threads have exited.
+[Tue Nov 04 18:53:54.193934 2025] [mpm_winnt:notice] [pid 7808:tid 424] AH00430: Parent: Child process 6608 exited successfully.
+[Tue Nov 04 20:32:11.193954 2025] [mpm_winnt:notice] [pid 4404:tid 428] AH00455: Apache/2.4.65 (Win64) configured -- resuming normal operations
+[Tue Nov 04 20:32:11.193954 2025] [mpm_winnt:notice] [pid 4404:tid 428] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Tue Nov 04 20:32:11.193954 2025] [core:notice] [pid 4404:tid 428] AH00094: Command line: 'E:\\Apache24\\bin\\httpd.exe -d E:/Apache24'
+[Tue Nov 04 20:32:11.195960 2025] [mpm_winnt:notice] [pid 4404:tid 428] AH00418: Parent: Created child process 7788

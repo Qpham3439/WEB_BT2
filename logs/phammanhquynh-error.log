@@ -1,0 +1,2 @@
+[Sun Oct 26 09:48:25.263790 2025] [authz_core:error] [pid 6012:tid 1108] [client 127.0.0.1:63586] AH01630: client denied by server configuration: E:/Apache24/phammanhquynh/
+[Sun Oct 26 09:48:25.455038 2025] [authz_core:error] [pid 6012:tid 1108] [client 127.0.0.1:63586] AH01630: client denied by server configuration: E:/Apache24/phammanhquynh/favicon.ico, referer: http://phammanhquynh.com/
