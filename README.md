@@ -138,7 +138,7 @@ Bài tập 02 của sinh viên: K225480106057 - Phạm Mạnh Quỳnh - môn ph�
 
 <img width="1222" height="963" alt="image" src="https://github.com/user-attachments/assets/d0b3ad5f-e8aa-4702-af41-ab4b2890c5a9" />
 
--  Chạy file index.html trong folder  \Apache24\hoangkimngoc:
+-  Chạy file index.html trong folder  E\Apache24\phammanhquynh:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/650bd7ea-db30-45db-9f8e-7c00d6cfba5a" />
 
