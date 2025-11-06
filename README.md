@@ -140,7 +140,8 @@ Bài tập 02 của sinh viên: K225480106057 - Phạm Mạnh Quỳnh - môn ph�
 
 -  Chạy file index.html trong folder  E\Apache24\phammanhquynh:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/650bd7ea-db30-45db-9f8e-7c00d6cfba5a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9312907-82f5-449b-b3a0-e5f434408b69" />
+
 
 -> Kết hợp backend nodered + frontend html css + csdl SQL: kết quả là khi người dùng gửi GET bằng cách nhập nội dung tìm kiếm trên frontend thì backend truy vấn database tìm nội dung tương ứng rồi trả về kết quả cho client.
 
